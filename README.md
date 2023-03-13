@@ -1,4 +1,4 @@
-# Book-rating-prediction_v1
+# Book rating prediction - Emmanuel Gakosso - DSTI
 ### The aim of this project is to train a machine learning model to predict book rating and deploy it in a streamlit web app.
 ### All the steps from importing, data analysis, feature engineering, machine learning model and streamlit app will be explained within the notebook.
 
