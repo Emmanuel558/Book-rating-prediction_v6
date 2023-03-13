@@ -8,6 +8,4 @@
 #### Step 2: Feature engineering and data preprocessing (based on data analysis)
 #### Step 3: Machine learning Model
 
-#### The deployment on streamlit is made available through 3 files: app.py which executes the functions from two other files: explore_page.py and predict_page.py
-#### Explore_page.py contains Exploratory Data Analysis and Detailed analysis of machine learning results
-#### predict_page.py contains Average rating Prediction
+#### The deployment on streamlit is made available through 
