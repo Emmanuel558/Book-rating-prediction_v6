@@ -8,4 +8,4 @@
 #### Step 2: Feature engineering and data preprocessing (based on data analysis)
 #### Step 3: Machine learning Model
 
-#### The deployment on streamlit is made available through 
+#### The deployment on streamlit is made available through Book_rating_prediction_app.py
